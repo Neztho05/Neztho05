@@ -1,11 +1,7 @@
 ![logo](https://github.com/Neztho05/Neztho05/blob/main/IMG-20240611-WA0049_1.jpg)
 <br>
-<h2>
-Hi saya Nezhlw <br>
-Saya Web Developer 
-</h2>
 
-<h1 align="center">Hi 👋, I'm Amnesto Halawa</h1>
+<h1 align="center">Hi 👋, I'm neshlw</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amnestohalwa&label=Profile%20views&color=0e75b6&style=flat" alt="amnestohalwa" /> </p>
