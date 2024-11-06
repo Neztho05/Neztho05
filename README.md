@@ -45,7 +45,4 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-fca121?style=flat-square&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### Stats:
-![Badge Dewana](https://cie.my.id/dewanakl?style=flat-square&color=brightgreen)
 
-![GitHub Stats Dewana](https://github-readme-stats.vercel.app/api?username=dewanakl&show_icons=true&theme=radical)
