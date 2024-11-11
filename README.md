@@ -1,13 +1,6 @@
 ![logo](https://github.com/Neztho05/Neztho05/blob/main/IMG-20240611-WA0049_1.jpg)
-<br>
-
-<h1 align="center">Hi 👋, I'm Neshlw</h1>
+<h1 align="center" style="aqua">Hi 👋, I'm Neshlw</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-
-<br>
-<div align="center">
-  <h2> <strong>neshlw</strong> <img src="./assets/borderseparator.gif"/> </h2><br>
-  </br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amnestohalwa&label=Profile%20views&color=0e75b6&style=flat" alt="amnestohalwa" /> </p>
 
