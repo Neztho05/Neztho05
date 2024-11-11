@@ -4,6 +4,11 @@
 <h1 align="center">Hi 👋, I'm Neshlw</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
+<br>
+<div align="center">
+  <h2> <strong>neshlw</strong> <img src="./assets/borderseparator.gif"/> </h2><br>
+  </br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amnestohalwa&label=Profile%20views&color=0e75b6&style=flat" alt="amnestohalwa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amnestohalwa" target="blank"><img src="https://img.shields.io/twitter/follow/amnestohalwa?logo=twitter&style=for-the-badge" alt="amnestohalwa" /></a> </p>
